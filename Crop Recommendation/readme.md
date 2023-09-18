@@ -10,7 +10,12 @@ Project Description :
 
 Agriculture is a critical sector that directly impacts the global food supply and economy. To support farmers in making informed decisions about crop selection, this project leverages data science techniques and machine learning algorithms to provide crop recommendations.
 
-Features
+
+
+Features :  
+
+
+
 Data Collection: This project gathers relevant data, including soil type, climate conditions, historical crop yields, and crop characteristics, from various sources.
 
 Data Preprocessing: The collected data is cleaned, transformed, and prepared for modeling. Missing values and outliers are handled appropriately.
