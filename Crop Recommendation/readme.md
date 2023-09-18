@@ -1,9 +1,11 @@
 Crop Recommendation Data Science Project
 
 Overview
+
 This repository contains the code and resources for a Crop Recommendation data science project. The goal of this project is to develop a system that can recommend suitable crops to farmers based on various environmental and soil factors. Crop recommendation is crucial for maximizing agricultural productivity and ensuring food security.
 
 Project Description
+
 Agriculture is a critical sector that directly impacts the global food supply and economy. To support farmers in making informed decisions about crop selection, this project leverages data science techniques and machine learning algorithms to provide crop recommendations.
 
 Features
